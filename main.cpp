@@ -60,6 +60,8 @@ int main() {
     }
 
     cout << number << endl;
+
+    cout << "test whether cmake debug would be ignored";
 }
 
 
